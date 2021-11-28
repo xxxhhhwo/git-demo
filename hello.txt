@@ -17,3 +17,9 @@ hello atguigu
 hello atguigu
 
 i just wan to earn more money
+
+first user git restore
+
+git restore  use to delete write in workspace
+git restore --staged user to remove this dir from commited
+
