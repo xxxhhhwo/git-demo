@@ -13,8 +13,11 @@ hello atguigu
 hello atguigu
 hello atguigu
 hello atguigu
+<<<<<<< HEAD
 hello atguigu master test
-hello atguigu
+=======
+hello atguigu fix-hot test
+>>>>>>> hot-fix
 
 i just wan to earn more money
 
