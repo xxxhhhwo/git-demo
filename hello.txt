@@ -16,7 +16,6 @@ hello atguigu
 hello atguigu master test01
 hello atguigu fix-hot test01
 
-i just wan to earn more money
 
 first user git restore
 
